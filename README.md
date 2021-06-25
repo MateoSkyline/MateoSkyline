@@ -4,7 +4,7 @@
 In my job, I usually use various programming languages, like Angular & NodeJS for one of my biggest commercial projects, Django or Python.
 In my own private projects, at the moment, my first choose is Django.
 
-🔭 I’m currently working on [Project Coconut](http://github.com/MateoSkyline/ProjectCoconut) - real-time, multiplayer, browser game in which your goal is to make as much money, as you can. **PASSIVELY** :) Trading stocks, real estates, commodities etc. etc. <br/>
+🔭 I’m currently working on Project Coconut - real-time, multiplayer, browser game in which your goal is to make as much money, as you can. **PASSIVELY** :) Trading stocks, real estates, commodities etc. etc. <br/>
 **MY goal** in this project is to make as realistic stocks exchange model as possible. And to educate Poles more about finances and economy :)
 
 📫 How to reach me: 
