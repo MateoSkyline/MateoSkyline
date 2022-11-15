@@ -1,14 +1,13 @@
 ### Hi there, I'm Mateusz 👋
 
 #### I work as a programmer. 
-In my job, I usually use various programming languages, like Angular & NodeJS for one of my biggest commercial projects, Django or Python.
-In my own private projects, at the moment, my first choose is Django.
+In my job, I use mostly Microsoft programming stack (C#, sometimes unfortunately VB) + Angular. Privately I'm also a big fan of Python (for webdev especially Django!)
 
-🔭 I’m currently working on Stock Market Crawler - small .NET6 service executing jobs to collect stocks data from various pages (for example information about dividends).
-**MY goal** of this project is to create an useful tool to obtain stocks data to local database and then somehow use it :)
+🔭 I’m currently working on some small Angular applications utilizing primeNg (like todo apps, some weather sht etc)
+**MY goal** of this is to sharpen my Angular skills
 
-🌟 One of my best projects so far is Project Coconut - real-time, multiplayer, browser game in which your goal is to make as much money, as you can. **PASSIVELY** :) Trading stocks, real estates, commodities etc. etc. <br/>
-**MY goal** in this project is to make as realistic stocks exchange model as possible. And to educate Poles more about finances and economy :)
+🌟 One of my best private projects so far is Project Coconut - real-time, multiplayer, browser game in which your goal is to make as much money, as you can. **PASSIVELY** :) Trading stocks, real estates, commodities etc. etc. <br/>
+**MY goal** in this project was to make as realistic stocks exchange model as possible. And to educate Poles more about finances and economy :)
 
 📫 How to reach me: 
 
